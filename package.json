@@ -14,7 +14,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/Misleap/koa-test.git"
-
     },
     "dependencies": {
         "babel-core": "6.13.2",
